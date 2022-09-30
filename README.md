@@ -1,6 +1,8 @@
 # mrtree
 A simple javascript module for drawing tree diagram.
 
+![Illustration](img/illustration.png)
+
 ## How to use it ?
 
 First create an html file and fill the body with a div container with an id equal to mtcontainer
