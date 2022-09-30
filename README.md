@@ -70,5 +70,7 @@ const myConfig = {
 const mrTree = new MrTree(myConfig);
 ```
 
+You have a full example in the example directory.
+
 
 Dont hesitate to suggest new features or to contribute :) 
