@@ -1,5 +1,5 @@
 # mrtree
-A simple javascript module for drawing tree diagram by Pierre Lassalle.
+A simple javascript module for drawing tree diagram.
 
 ## How to use it ?
 
@@ -73,4 +73,7 @@ const mrTree = new MrTree(myConfig);
 You have a full example in the example directory.
 
 
-Dont hesitate to suggest new features or to contribute :) 
+Dont hesitate to suggest new features or to contribute :)
+
+## Author
+Pierre Lassalle
