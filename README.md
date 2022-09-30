@@ -1,5 +1,5 @@
 # mrtree
-A simple javascript module for drawing tree diagram.
+A simple javascript module for drawing interactive tree diagrams.
 
 ![Illustration](img/illustration.png)
 
